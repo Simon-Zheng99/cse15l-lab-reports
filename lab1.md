@@ -6,7 +6,7 @@
 
 Using cd without any arguments will not cause a change in directory(not an error).
 
-![Image](cd2.png)
+![Image](cd.png)
 
 Using cd with a path to a directory will allow us to change directory and access the files inside(not an error).
 
