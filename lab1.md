@@ -12,5 +12,5 @@ A sentence or two explaining why you got that output (e.g. what was in the files
 Indicate whether the output is an error or not, and if it’s an error, explain why it’s an error.
 
 cd:
-
+![Image](cd.png)
 
