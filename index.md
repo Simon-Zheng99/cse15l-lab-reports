@@ -27,7 +27,7 @@ Num is changed from 2 to 3 after the message is printed to handle the next reque
 
 ## Part 3:
 
-In weeks 2 and 3, I learned how to establish a connection to a remote server using SSH, which allows for secure file transfers and remote command execution. I learned how to create a basic search engine, and I also learned how to initiate my own server and handle simple requests. One extra thing I learned which I find very helpful is the different methods of adding images in a mark down cell, which actually deepens my understanding to relative and absolute paths.
+In weeks 2 and 3, I learned how to establish a connection to a remote server using SSH, which allows for remote command execution. I learned how to create a basic search engine, and I also learned how to initiate my own server and handle simple requests. One extra thing I learned which I find very helpful is the different methods of adding images in a mark down cell, which actually deepens my understanding to relative and absolute paths.
 
 
 
